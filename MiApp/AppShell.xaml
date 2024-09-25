@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:MiApp.Views"
+    x:Class="MiApp.AppShell">
+    <TabBar>
+      
+        <Tab Title="Categorías">
+            <ShellContent ContentTemplate="{DataTemplate local:CategoriaListPage}" />
+        </Tab>
+        <Tab Title="Productos">
+            <ShellContent ContentTemplate="{DataTemplate local:ProductoListPage}" />
+        </Tab>
+        <Tab Title="Compra productos">
+            <ShellContent ContentTemplate="{DataTemplate local:Compra_productoListPage}" />
+        </Tab>
+        <Tab Title="Bolsas">
+            <ShellContent ContentTemplate="{DataTemplate local:BolsaListPage}" />
+        </Tab>
+    </TabBar>
+</Shell>

@@ -1,0 +1,113 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MiApp
+build_property.ProjectDir = D:\prueba\MiApp\MiApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/prueba/MiApp/MiApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/prueba/MiApp/MiApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/prueba/MiApp/MiApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/prueba/MiApp/MiApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/prueba/MiApp/MiApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/prueba/MiApp/MiApp/Views/BolsaEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.BolsaEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BolsaEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BolsaEditPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/BolsaListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.BolsaListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BolsaListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BolsaListPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/CategoriaEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.CategoriaEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CategoriaEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CategoriaEditPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/CategoriaListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.CategoriaListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CategoriaListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CategoriaListPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/Compra_productoEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.Compra_productoEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Compra_productoEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Compra_productoEditPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/Compra_productoListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.Compra_productoListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Compra_productoListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Compra_productoListPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/ProductoEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.ProductoEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductoEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductoEditPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/ProductoListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.ProductoListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductoListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductoListPage.xaml
+
+[D:/prueba/MiApp/MiApp/Views/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiApp.Views.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegisterPage.xaml

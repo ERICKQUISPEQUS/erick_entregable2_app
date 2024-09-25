@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\erick_entregable2_app\\MiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|f:\\erick_entregable2_app\\miapp\\miapp\\views\\categoriaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\categoriaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|f:\\erick_entregable2_app\\miapp\\miapp\\services\\distritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\services\\distritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|f:\\erick_entregable2_app\\miapp\\miapp\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|f:\\erick_entregable2_app\\miapp\\miapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|f:\\erick_entregable2_app\\miapp\\miapp\\views\\compra_productolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\compra_productolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|f:\\erick_entregable2_app\\miapp\\miapp\\views\\compra_productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\compra_productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaEditPage.xaml.cs",
+              "DocumentMoniker": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Views\\CategoriaEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiApp\\Views\\CategoriaEditPage.xaml.cs",
+              "ToolTip": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Views\\CategoriaEditPage.xaml.cs",
+              "RelativeToolTip": "MiApp\\Views\\CategoriaEditPage.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAtwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:22:04.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "MiApp\\Services\\ProductoService.cs",
+              "ToolTip": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Services\\ProductoService.cs",
+              "RelativeToolTip": "MiApp\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:21:47.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DistritoService.cs",
+              "DocumentMoniker": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Services\\DistritoService.cs",
+              "RelativeDocumentMoniker": "MiApp\\Services\\DistritoService.cs",
+              "ToolTip": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Services\\DistritoService.cs",
+              "RelativeToolTip": "MiApp\\Services\\DistritoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:20:33.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compra_productoListPage.xaml.cs",
+              "DocumentMoniker": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Views\\Compra_productoListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiApp\\Views\\Compra_productoListPage.xaml.cs",
+              "ToolTip": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Views\\Compra_productoListPage.xaml.cs",
+              "RelativeToolTip": "MiApp\\Views\\Compra_productoListPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:14:00.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Compra_productoListPage.xaml",
+              "DocumentMoniker": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Views\\Compra_productoListPage.xaml",
+              "RelativeDocumentMoniker": "MiApp\\Views\\Compra_productoListPage.xaml",
+              "ToolTip": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Views\\Compra_productoListPage.xaml",
+              "RelativeToolTip": "MiApp\\Views\\Compra_productoListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T15:13:57.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "MiApp\\Data\\Database.cs",
+              "ToolTip": "F:\\erick_entregable2_app\\MiApp\\MiApp\\Data\\Database.cs",
+              "RelativeToolTip": "MiApp\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:12:22.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
