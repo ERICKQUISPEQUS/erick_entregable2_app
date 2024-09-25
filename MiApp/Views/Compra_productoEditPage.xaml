@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MiApp.Views.Compra_productoEditPage">
+    <StackLayout Padding="10">
+        
+        <Label Text="Nombre de Producto"/>
+        <Entry x:Name="NombreEntry"/>
+        
+        <Label Text="Producto"/>
+        <Picker x:Name="ProductoPicker"/>
+
+        <Label Text="Cantidad"/>
+        <Entry x:Name="CantidadEntry" Keyboard="Numeric"/>
+
+        <Label Text="Precio_unitario"/>
+        <Entry x:Name="Precio_unitarioEntry" Keyboard="Numeric"/>
+
+
+
+
+        <Button Text="Guardar" Clicked="OnSaveClicked"/>
+    </StackLayout>
+</ContentPage>

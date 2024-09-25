@@ -1,0 +1,1 @@
+F:\erick_entregable2_app\MiApp\MiApp\MiApp.csproj;x64
